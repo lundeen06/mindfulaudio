@@ -37,17 +37,7 @@ Each component has its own detailed README with specific setup instructions:
 
 ## Getting Started
 
-Due to the specialized nature of this project, different components have different dependencies. Please refer to the README files in each subdirectory linked above for specific setup instructions.
-
-### Prerequisites
-
-- Python 3.8+ 
-- OpenCV 4.5+
-- NumPy
-- MediaPipe (for motion tracking)
-- Librosa (for audio analysis)
-- Ultralytics YOLO (for object detection)
-- Plotly (for visualization)
+Due to the specialized nature of this project, different components have different dependencies. **Please refer to the README files in each subdirectory linked above for specific setup instructions.**
 
 ### General Installation
 
@@ -88,17 +78,5 @@ python n-camera/capture.py --camera_ids 0 1 2
 python n-camera/calibrate.py
 ```
 
-## Contributing
-
-This project is part of ongoing research. Please contact the repository owner for contribution guidelines.
-
-## License
-
-This project is for research purposes. Copyright information will be added in the future.
-
-## Acknowledgments
-
-- Stanford VHIL Lab
-- MediaPipe team for their open-source pose estimation
-- Ultralytics for YOLO implementations
-- FreeMoCap project for multi-camera inspiration
+## Contact
+Lundeen Cahilly - [lcahilly@stanford.edu](lcahilly@stanford.edu)
