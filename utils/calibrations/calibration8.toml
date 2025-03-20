@@ -1,0 +1,21 @@
+[cam_0]
+name = "Camera_001_synchronized"
+size = [ 1280, 720,]
+matrix = [ [ 931.3841464626457, 0.0, 639.5,], [ 0.0, 931.3841464626457, 359.5,], [ 0.0, 0.0, 1.0,],]
+distortions = [ 0.05378484106526504, 0.0, 0.0, 0.0, 0.0,]
+rotation = [ 0.006746955590077254, 0.008063726295928863, -0.0013881124376158578,]
+translation = [ 0.0, 0.0, 0.0,]
+
+[cam_1]
+name = "Camera_000_synchronized"
+size = [ 960, 540,]
+matrix = [ [ 573.8657226583061, 0.0, 479.5,], [ 0.0, 573.8657226583061, 269.5,], [ 0.0, 0.0, 1.0,],]
+distortions = [ 0.01568738805144723, 0.0, 0.0, 0.0, 0.0,]
+rotation = [ 0.000790833918708518, -0.062295425337797194, 0.00910759198221698,]
+translation = [ 399.51048511985414, -173.4946464300633, 2.6114669528829517,]
+
+[metadata]
+charuco_square_size = 39.4
+charuco_board_object = "CharucoBoardDefinition(aruco_marker_dict=< cv2.aruco.Dictionary 0x3133edfb0>, number_of_squares_width=7, number_of_squares_height=5, black_square_side_length=1, aruco_marker_length_proportional=0.8)"
+path_to_recorded_videos = "/Users/lundeencahilly/freemocap_data/recording_sessions/session_2025-02-10_13_37_21/recording_13_41_10_gmt-8_calibration/synchronized_videos"
+date_time_calibrated = "2025-02-10T21:42:12"

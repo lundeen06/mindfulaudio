@@ -1,0 +1,16 @@
+{
+  "duration": 412.2920634920635,
+  "sample_rate": 22050,
+  "n_samples": 9091040,
+  "amplitude": {
+    "rms_mean": 0.00894815381616354,
+    "rms_std": 0.005058001261204481,
+    "peak_amplitude": 0.35224589705467224,
+    "zero_crossing_rate_mean": 0.016416600814513405
+  },
+  "frequency": {
+    "spectral_centroid_mean": 1099.4829834090092,
+    "dominant_frequency": 21.533203125,
+    "dominant_frequency_magnitude": 2.380693197250366
+  }
+}

@@ -1,0 +1,16 @@
+/multi-camera/calibration_images
+/n-camera/calibration_images
+recording/recordings/.DS_Store
+recording/.DS_Store
+/analysis/videos
+/analysis/mp
+/analysis/output
+.DS_Store
+/analysis/data
+analysis/demos/yolo11x-pose.pt
+analysis/demos/yolo11x-obb.pt
+analysis/demos/yolov8x-tuned-hand.pt
+analysis/custom/yolo11n-seg.pt
+analysis/custom/yolo11n-pose.pt
+yolo11x-seg.pt
+*.mp3
